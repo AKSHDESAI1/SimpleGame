@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SimpleGame/static/css/main.f0d685eb.css",
+    "main.js": "/SimpleGame/static/js/main.a1af8b1c.js",
+    "index.html": "/SimpleGame/index.html",
+    "main.f0d685eb.css.map": "/SimpleGame/static/css/main.f0d685eb.css.map",
+    "main.a1af8b1c.js.map": "/SimpleGame/static/js/main.a1af8b1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0d685eb.css",
+    "static/js/main.a1af8b1c.js"
+  ]
+}
